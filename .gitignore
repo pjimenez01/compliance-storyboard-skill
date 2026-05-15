@@ -40,3 +40,7 @@ venv/
 # Backup files
 *.bak
 *.backup
+
+# Setup and verification scripts
+setup-github.md
+verify-ready.ps1
